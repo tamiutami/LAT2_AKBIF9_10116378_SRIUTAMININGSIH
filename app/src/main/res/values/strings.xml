@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LAT2_AKBIF9_10116378_SRIUTAMININGSIH</string>
+    <string name="face">Doesn\'t have account? <b>Register</b></string>
+    <string name="step">Thank you for registering with us, One more\nstep, you need to check your email\nto active your account</string>
+    <string name="verif">We have send verification code to your email</string>
+    <string-array name="nama">
+        <item><font fgcolor="#808284">Blood Type</font></item>
+    </string-array>
+    <string-array name="job">
+        <item><font fgcolor="#808284">Job</font></item>
+    </string-array>
+    <string-array name="Reshus">
+        <item><font fgcolor="#808284">Reshus</font></item>
+    </string-array>
+
+</resources>
